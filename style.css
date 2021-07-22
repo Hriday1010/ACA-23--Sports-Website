@@ -1,0 +1,55 @@
+.image{ 
+    background: url(Cristanio\ Ronaldo.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  a{
+    flex-wrap:wrap;
+    justify-content:space-around;
+    margin-left:190px;
+    text-decoration:none;
+    color: #fff;;
+    font-weight:bold;
+    height: 100%;
+}
+a:hover{
+    border-bottom: 2px solid #fff;
+}
+.qoute{
+    text-align: center;
+    font-size:45px;
+    color:#fff;
+    padding-top: 170px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bioback{
+    background: url(Ronaldo\ Background\ Blur\ Image.jpeg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.biotopic{
+    text-align: center;
+    color: greenyellow;
+    font-size: 50px;
+    background-color:;
+}
+.biography{
+    background-image: linear-gradient(yellow,#6dd5ed);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    background-image: linear-gradient(#36D1DC,#CB356B);
+}
+#achievements{
+    border: black 5px;
+}
+.atag{
+    font-size: 45px;
+    padding-left: 275px;
+}
